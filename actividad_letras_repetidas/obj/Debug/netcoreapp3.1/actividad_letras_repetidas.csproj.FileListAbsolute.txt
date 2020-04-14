@@ -1,0 +1,10 @@
+/Users/jeffeotto/Projects/actividad_letras_repetidas/actividad_letras_repetidas/bin/Debug/netcoreapp3.1/actividad_letras_repetidas.deps.json
+/Users/jeffeotto/Projects/actividad_letras_repetidas/actividad_letras_repetidas/bin/Debug/netcoreapp3.1/actividad_letras_repetidas.runtimeconfig.json
+/Users/jeffeotto/Projects/actividad_letras_repetidas/actividad_letras_repetidas/bin/Debug/netcoreapp3.1/actividad_letras_repetidas.runtimeconfig.dev.json
+/Users/jeffeotto/Projects/actividad_letras_repetidas/actividad_letras_repetidas/bin/Debug/netcoreapp3.1/actividad_letras_repetidas.dll
+/Users/jeffeotto/Projects/actividad_letras_repetidas/actividad_letras_repetidas/bin/Debug/netcoreapp3.1/actividad_letras_repetidas.pdb
+/Users/jeffeotto/Projects/actividad_letras_repetidas/actividad_letras_repetidas/obj/Debug/netcoreapp3.1/actividad_letras_repetidas.csprojAssemblyReference.cache
+/Users/jeffeotto/Projects/actividad_letras_repetidas/actividad_letras_repetidas/obj/Debug/netcoreapp3.1/actividad_letras_repetidas.AssemblyInfoInputs.cache
+/Users/jeffeotto/Projects/actividad_letras_repetidas/actividad_letras_repetidas/obj/Debug/netcoreapp3.1/actividad_letras_repetidas.AssemblyInfo.cs
+/Users/jeffeotto/Projects/actividad_letras_repetidas/actividad_letras_repetidas/obj/Debug/netcoreapp3.1/actividad_letras_repetidas.dll
+/Users/jeffeotto/Projects/actividad_letras_repetidas/actividad_letras_repetidas/obj/Debug/netcoreapp3.1/actividad_letras_repetidas.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A4BDDE98-BF29-4339-9EA3-648C58AECAC5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="actividad_letras_repetidas/Program.cs">
+    <Files>
+      <File FileName="actividad_letras_repetidas/Program.cs" Line="65" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="actividad_letras_repetidas" expanded="True">
+            <Node name="actividad_letras_repetidas" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.actividad__letras__repetidas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "actividad_letras_repetidas/1.0.0": {
+        "runtime": {
+          "actividad_letras_repetidas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "actividad_letras_repetidas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
